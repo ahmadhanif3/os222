@@ -7,10 +7,10 @@ By ahmadhanif3
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+1. [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
+I personally think that this website could really help you 
+throughout the semester. It's got all the materials concluded in a 
+powerpoint form. Plus, OSC10 is frequently referenced (even at quizzes ;)
 
 2. [Two](https://en.wikipedia.org/wiki/2)<br>
 Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
