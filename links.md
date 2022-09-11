@@ -7,58 +7,60 @@ By ahmadhanif3
 
 # LINKS
 
-1. [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
+*Note that this isn't complete yet. I will update this page as i progress through
+the semester finding new sources for learning.
+* Week 00, 01 
+
+- [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
 I personally think that this website could really help you 
 throughout the semester. It's got all the materials concluded in a 
-powerpoint form. Plus, OSC10 is frequently referenced (even at quizzes ;)
+powerpoint form. Plus, OSC10 is frequently referenced.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+- [Slides](https://github.com/os2xx/os/tree/master/Slides/)<br>
+This page can be found at the LINKS sectionat the OS website. I included
+it here so i can easily find it hehe. This consists of slides from the very 
+first till last chapters. If you like to learn in advance, I reccomend 
+seeing this slides first.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
+<h3?Week 00<h3>
 
-4. [Four](https://en.wikipedia.org/wiki/4)<br>
-Powder donut cheesecake wafer.
-I love sugar plum brownie tart apple pie macaroon.
-Donut wafer dragée pudding.
+- [OS](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)<br>
+This comes from our very own favorite website which is geekforgeek. It has
+many subsections explaining about Operating System. Reading this page really
+peaked my interest, so that's why I'm sharing it with you guys.
 
-5. [Five](https://en.wikipedia.org/wiki/5)<br>
-Soufflé I love gingerbread marshmallow cake I love applicake.
-Sugar plum I love jelly beans powder jelly beans.
-Ice cream ice cream cupcake liquorice I love.
+-[Linux](https://www.linux.com/what-is-linux/)<br>
+Coming from Linux's own website, this page contains many knowledge 
+knowledge about Linux. I find it quite interesting. It's very 
+detailed and if you like to learn new things, you should
+visit this link. 
 
-6. [Six](https://en.wikipedia.org/wiki/6)<br>
-Pastry sweet roll applicake bear claw donut sweet roll.
-Chocolate carrot cake I love sesame snaps.
-Pudding pudding chocolate cake croissant donut pastry pie cupcake cookie.
+<h3>Week 01<h3>
 
-7. [Seven](https://en.wikipedia.org/wiki/7)<br>
-Bonbon chupa chups cupcake bonbon lemon drops.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)<br>
+This link is quite good for beginners learning about markdown. It has
+a lot of informations in a compact manner. It is more of a cheat sheet
+rather than a full on guide. This link even helped me create this very website :).
 
-8. [Eight](https://en.wikipedia.org/wiki/8)<br>
-Tootsie roll I love soufflé I love chocolate.
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
+- [Linux Commands](https://www.loggly.com/wp-content/uploads/2015/05/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf)<br>
+This link is a cheat sheet full of linux commands. It has a lot of 
+info in a compact manner, which makes it really easy to find useful commands.
+So i highly reccomend checking this out!
 
-9. [Nine](https://en.wikipedia.org/wiki/9)<br>
-KFC urna libero, in purus hana masa, tempor hokben lorem.
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
+- [Bash](https://devhints.io/bash)<br>
+As what the title says, this page contains information about Bash.
+This link is really great in my opinion. Even though it doesn't get
+too in depth, it compiles almost everything you need to know about Bash
+in only 1 page.
 
-10. [Ten](https://en.wikipedia.org/wiki/10)<br>
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
-Sweet bonbon biscuit jujubes pastry bonbon cookie croissant.
-Danish chupa chups I love cupcake.
+- [SED](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/) and [AWK](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/?ref=lbp)<br>
+It is actually two different pages, but it is on the same website 
+so that is why I put it together. Both of them talks about sed and AWK.
+Yet again it is in a compact form, which i really like. Another upside is
+that it provides useful examples so we can comprehend each command better.
 
-<br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+- [Regex](https://www.rexegg.com/)<br>
+This website is a very thorough explanation about regex. It starts
+from the very definition, a cheat sheet, even examples and tips we
+can utilize. This website overall has everything you need to know 
+about regex.
