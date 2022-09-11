@@ -1,15 +1,13 @@
 ---
 permalink: LINKS/
 ---
-By ahmadhanif3
-
-[HOME]({{ site.baseurl }}/) | [LOG]({{ site.baseurl  }}/TXT/mylog.txt) | [LINKS]({{ site.baseurl }}/LINKS/) | [GITHUB]({{ site.githublink }})
+|[HOME]({{ site.baseurl }}/)|[LOG]({{ site.baseurl  }}/TXT/mylog.txt)|[LINKS]({{ site.baseurl }}/LINKS/)|[GITHUB]({{ site.githublink }})|
 
 # LINKS
 
 *Note that this isn't complete yet. I will update this page as i progress through
 the semester finding new sources for learning.
-* Week 00, 01 
+*Week 00, 01 
 
 - [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
 I personally think that this website could really help you 
@@ -22,20 +20,20 @@ it here so i can easily find it hehe. This consists of slides from the very
 first till last chapters. If you like to learn in advance, I reccomend 
 seeing this slides first.
 
-<h3?Week 00<h3>
+<h3>Week 00<h3><br>
 
 - [OS](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)<br>
 This comes from our very own favorite website which is geekforgeek. It has
 many subsections explaining about Operating System. Reading this page really
 peaked my interest, so that's why I'm sharing it with you guys.
 
--[Linux](https://www.linux.com/what-is-linux/)<br>
+- [Linux](https://www.linux.com/what-is-linux/)<br>
 Coming from Linux's own website, this page contains many knowledge 
 knowledge about Linux. I find it quite interesting. It's very 
 detailed and if you like to learn new things, you should
 visit this link. 
 
-<h3>Week 01<h3>
+<h3>Week 01<h3><br>
 
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)<br>
 This link is quite good for beginners learning about markdown. It has
