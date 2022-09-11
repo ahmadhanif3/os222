@@ -1,7 +1,8 @@
 ---
 permalink: LINKS/
 ---
-|[HOME]({{ site.baseurl }}/)|[LOG]({{ site.baseurl  }}/TXT/mylog.txt)|[LINKS]({{ site.baseurl }}/LINKS/)|[GITHUB]({{ site.githublink }})|
+By ahmadhanif3<br>
+[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.baseurl  }}/TXT/mylog.txt) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [GITHUB](https://github.com/ahmadhanif3)|
 
 # LINKS
 
@@ -17,7 +18,7 @@ powerpoint form. Plus, OSC10 is frequently referenced.
 - [Slides](https://github.com/os2xx/os/tree/master/Slides/)<br>
 This page can be found at the LINKS sectionat the OS website. I included
 it here so i can easily find it hehe. This consists of slides from the very 
-first till last chapters. If you like to learn in advance, I reccomend 
+first till last chapters. If you like to learn in advance, I recommend 
 seeing this slides first.
 
 Week 00<br>
@@ -43,7 +44,7 @@ rather than a full on guide. This link even helped me create this very website :
 - [Linux Commands](https://www.loggly.com/wp-content/uploads/2015/05/Linux-Cheat-Sheet-Sponsored-By-Loggly.pdf)<br>
 This link is a cheat sheet full of linux commands. It has a lot of 
 info in a compact manner, which makes it really easy to find useful commands.
-So i highly reccomend checking this out!
+So i highly recommend checking this out!
 
 - [Bash](https://devhints.io/bash)<br>
 As what the title says, this page contains information about Bash.
