@@ -20,7 +20,7 @@ it here so i can easily find it hehe. This consists of slides from the very
 first till last chapters. If you like to learn in advance, I reccomend 
 seeing this slides first.
 
-<h3>Week 00<h3><br>
+Week 00<br>
 
 - [OS](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)<br>
 This comes from our very own favorite website which is geekforgeek. It has
@@ -33,7 +33,7 @@ knowledge about Linux. I find it quite interesting. It's very
 detailed and if you like to learn new things, you should
 visit this link. 
 
-<h3>Week 01<h3><br>
+Week 01<br>
 
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)<br>
 This link is quite good for beginners learning about markdown. It has
