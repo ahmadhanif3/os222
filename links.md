@@ -6,9 +6,8 @@ By ahmadhanif3<br>
 
 # LINKS
 
-*Note that this isn't complete yet. I will update this page as i progress through
-the semester finding new sources for learning.<br>
-*Week 00, 01 
+*Note that this page isn't complete yet. I will update this page as i progress through
+the semester finding new sources for learning.<br> 
 
 - [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
 I personally think that this website could really help you 
@@ -16,7 +15,7 @@ throughout the semester. It's got all the materials concluded in a
 powerpoint form. Plus, OSC10 is frequently referenced.
 
 - [Slides](https://github.com/os2xx/os/tree/master/Slides/)<br>
-This page can be found at the LINKS sectionat the OS website. I included
+This page can be found at the LINKS section at the OS website. I included
 it here so i can easily find it hehe. This consists of slides from the very 
 first till last chapters. If you like to learn in advance, I recommend 
 seeing this slides first.
