@@ -2,12 +2,12 @@
 permalink: LINKS/
 ---
 By ahmadhanif3<br>
-[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.baseurl  }}/TXT/mylog.txt) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [GITHUB](https://github.com/ahmadhanif3)|
+[HOME]({{ site.baseurl }}/) --- [LOG]({{ site.baseurl  }}/TXT/mylog.txt) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [GITHUB](https://github.com/ahmadhanif3)
 
 # LINKS
 
 *Note that this isn't complete yet. I will update this page as i progress through
-the semester finding new sources for learning.
+the semester finding new sources for learning.<br>
 *Week 00, 01 
 
 - [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
