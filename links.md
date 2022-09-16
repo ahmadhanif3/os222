@@ -20,7 +20,7 @@ it here so i can easily find it hehe. This consists of slides from the very
 first till last chapters. If you like to learn in advance, I recommend 
 seeing this slides first.
 
-Week 00<br>
+### Week 00<br>
 
 - [OS](https://www.geeksforgeeks.org/introduction-of-operating-system-set-1/)<br>
 This comes from our very own favorite website which is geekforgeek. It has
@@ -33,7 +33,7 @@ knowledge about Linux. I find it quite interesting. It's very
 detailed and if you like to learn new things, you should
 visit this link. 
 
-Week 01<br>
+### Week 01<br>
 
 - [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)<br>
 This link is quite good for beginners learning about markdown. It has
@@ -62,3 +62,25 @@ This website is a very thorough explanation about regex. It starts
 from the very definition, a cheat sheet, even examples and tips we
 can utilize. This website overall has everything you need to know 
 about regex.
+
+### Week 02<br>
+
+- [Cyber Security 1](https://accesspointcorp.com/en/blog/cybersecurity-complete-guide/)<br>
+This website gives information on cyber security. I think it is quite interesting
+because some of the knowledge I get here, i haven't read it at the OSC10 slides. 
+
+- [Cyber Secuirty 2](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)<br>
+I personally think that these website complements each other with the
+first Cyber Security website I recommended. This website has detailed info. 
+Another thing I like is that the web writes it in points, so it's easy to
+grab the information in a quick way.
+
+- [C Language Handout](https://www.freecodecamp.org/news/the-c-beginners-handbook/)<br>
+C language is an intricate language in my opinion. For the people that likes to
+learn stuff by reading, this web is the one for you. It discusses a lot from variables
+to structures and even about preproccesor. 
+
+- [C Language Video](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+This one is for the people that likes to learn by watching. It's a crash course, because
+it's duration is shorter than some C language tutorial. But, I personally think it is a
+great starting point for learning C. 
