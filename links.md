@@ -83,4 +83,22 @@ to structures and even about preproccesor.
 - [C Language Video](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
 This one is for the people that likes to learn by watching. It's a crash course, because
 it's duration is shorter than some C language tutorial. But, I personally think it is a
-great starting point for learning C. 
+great starting point for learning C.
+
+### Week 03<br>
+
+- [File System](https://www.guru99.com/file-systems-operating-system.html)<br>
+It is a website from Guru99. As the name suggests, this web explains a lot about
+file systems. Many of it is explained in detail in OSC10, but I think it's written simpler.
+Therefore it is enjoyable to read and easy to pick out important informations.
+
+- [File System on Linux](https://www.javatpoint.com/linux-file-system)<br>
+On the previous link, it discusses about file system in general. While this link
+mainly tells about file system specifically on Linux. It is filled with new insights and
+knowledges. I highly reccomend this website to quench your curiosity.
+
+- [Linux File Management and Navigation](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management)<br>
+When doing our tasks, we often deal with commands such as cd or maybe ls. We also always interact 
+with directories and ofcourse files. This web will help a lot. It told me numerous new commands
+that I could've utilised with my early assignments. I'll definetly be refering to this page a
+lot!  
