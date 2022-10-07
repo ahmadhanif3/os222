@@ -101,4 +101,30 @@ knowledges. I highly reccomend this website to quench your curiosity.
 When doing our tasks, we often deal with commands such as cd or maybe ls. We also always interact 
 with directories and ofcourse files. This web will help a lot. It told me numerous new commands
 that I could've utilised with my early assignments. I'll definetly be refering to this page a
-lot!  
+lot! 
+
+### Week 04<br>
+
+- [Fragmentation](https://www.javatpoint.com/fragmentation-in-operating-system)<br>
+Yes I know we learned about Fragmentations last week, but we are still on the topic of Memory
+and it showed up again when I was learning for quiz. I couldn't really grasp the concept 
+through the slides alone, so I also used this website. It has several new insights, but the
+selling point for me is that it could reinterpret what the slides explain but in easier
+words.
+
+- [Paging and Swapping](https://www.geeksforgeeks.org/difference-between-paging-and-swapping-in-os/)<br>
+This page gives a brief overview on Paging and also Swapping. It also gives a comparison between the both, which enhances my understanding on both the topic. For those curious about Paging and/or Swapping, I highly recommend this one.
+
+- [Dynamic Memory Allocation](https://www.youtube.com/watch?v=R0qIYWo8igs)<br>
+The Video is made by Portfolio Courses, and is described as a quick 30 minutes overview of Dynamic Memory Allocation in C. Well we're learning about C, and we're also learning about Memory Allocation, so I thought to myself why dont I just learn it both at the same time. So here it is!
+
+### Week 05<br>
+
+- [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory#:~:text=Virtual%20memory%20is%20a%20common,(RAM)%20to%20disk%20storage.)<br>
+Here is a brief overview on virtual memory. It explains a lot about virtual memory, but not really in depth. It's quite good for getting started or just to know about the basics and fundamentals. 
+
+- [Virtual Memory & Linux](https://tldp.org/LDP/sag/html/vm-intro.html#:~:text=Linux%20supports%20virtual%20memory%2C%20that,be%20used%20for%20another%20purpose.)<br>
+This is, in my opinion, more in depth than the previous link I mentioned. It correlates a lot with linux, and essentially everything that we learned this week. It got lots more pages on this web, and it's highly technical. So prepare yourself for some great knowledge :).
+
+- [Lowest Memory](https://superuser.com/questions/973925/why-is-the-recommended-memory-on-a-virtualbox-guest-os-512mb)<br>
+This may have little relation with this week's topic, but I personally think it's worth a read. This week's assignment was on how low on memory can we get to boot up the virtual box. It peaked my interest about it, and i went searching and this is the page i got. 
