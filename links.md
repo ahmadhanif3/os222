@@ -7,7 +7,7 @@ By ahmadhanif3<br>
 # LINKS
 
 *Note that this page isn't complete yet. I will update this page as i progress through
-the semester finding new sources for learning.<br> 
+the semester finding new sources for learning. Enjoy and have fun learning!<br> 
 
 - [OSC10 Slides](https://www.os-book.com/OS10/slide-dir/index.html)<br>
 I personally think that this website could really help you 
