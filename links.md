@@ -128,3 +128,14 @@ This is, in my opinion, more in depth than the previous link I mentioned. It cor
 
 - [Lowest Memory](https://superuser.com/questions/973925/why-is-the-recommended-memory-on-a-virtualbox-guest-os-512mb)<br>
 This may have little relation with this week's topic, but I personally think it's worth a read. This week's assignment was on how low on memory can we get to boot up the virtual box. It peaked my interest about it, and i went searching and this is the page i got. 
+
+### Week 06<br>
+
+- [Processes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/3_Processes.html)<br>
+I found this web page while searching for study materials for the quiz. Basically it is the same material found on the slides (because it referse to the same book by Silberschatz). But what I like about this page by UIC is that it summarizes a whole lot about processes and some other stuff. It also highlights several key points.
+
+- [Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
+I got tired of reading so I opened youtube for my studying. I visited Neso Academy and chose this video which is an intro to threads. Though it may not be as thorough as reading Silberchatz, or maybe the slides, but it explains threads in a simplistic manner. This video may not be enough for intermediate or advanced learner, but I personally think it's enough to start studying or refresh our minds for this topic.
+
+- [Concurrency](https://www.javatpoint.com/concurrency-in-operating-system)<br>
+Another great website for CS is javatpoint.com. Filled with numerous topics, I found them covering about concurrency. Yes it may not be the most perfect or complete, but it has tons of important points that is discussed which in my opinion is the essence for understanding concurrency. 
