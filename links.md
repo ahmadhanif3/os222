@@ -139,3 +139,11 @@ I got tired of reading so I opened youtube for my studying. I visited Neso Acade
 
 - [Concurrency](https://www.javatpoint.com/concurrency-in-operating-system)<br>
 Another great website for CS is javatpoint.com. Filled with numerous topics, I found them covering about concurrency. Yes it may not be the most perfect or complete, but it has tons of important points that is discussed which in my opinion is the essence for understanding concurrency. 
+
+### Week 07<br>
+
+-[Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
+A nice summary of Deadlock from Silberschatz by UIC. The content is similar, just written in a concise yet complete way. It's a long read, but worth your time to study on it.
+
+-[Race Condition](https://www.javatpoint.com/what-is-race-condition)<br>
+This one is a light read. It introduces the reader on race condition both in electronics and operating system. Yes it may be short, but it has more chapters that can help us understand more on this week's topic.
