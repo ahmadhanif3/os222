@@ -142,8 +142,13 @@ Another great website for CS is javatpoint.com. Filled with numerous topics, I f
 
 ### Week 07<br>
 
--[Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
+- [Deadlocks](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html)<br>
 A nice summary of Deadlock from Silberschatz by UIC. The content is similar, just written in a concise yet complete way. It's a long read, but worth your time to study on it.
 
--[Race Condition](https://www.javatpoint.com/what-is-race-condition)<br>
+- [Race Condition](https://www.javatpoint.com/what-is-race-condition)<br>
 This one is a light read. It introduces the reader on race condition both in electronics and operating system. Yes it may be short, but it has more chapters that can help us understand more on this week's topic.
+
+### Week 08<br>
+
+- [LFS](https://youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+A guide to build Linux From Scratch. It has a lot of useful information, and easy steps to follow.
