@@ -152,3 +152,8 @@ This one is a light read. It introduces the reader on race condition both in ele
 
 - [LFS](https://youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
 A guide to build Linux From Scratch. It has a lot of useful information, and easy steps to follow.
+
+### Week 09<br>
+
+- [LFS Guide Bood](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+The previous link refers to this book on building Linux From Scratch. Because I have understood the flow of work, I no longer need the video and can rely solely on the book. It is worth reading, and you gotta read it slowly. There's a plethora of details, and keep in mind not to skip even a single step.
